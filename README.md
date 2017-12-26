@@ -37,7 +37,7 @@ http://localhost:8080/v2/api-docs
 
 ## Authors
 
-* **Nikhil Das Nomula** - *Initial work* - [nikhidas26](https://github.com/nikhidas26)
+* **Nikhil Das Nomula** - [nikhidas26](https://github.com/nikhidas26)
 
 ## License
 
