@@ -1,5 +1,5 @@
-# Project Titile
-A spring boot(1.4) app that exposes REST api by using Apache Derby Database and uses Swagger to expose the endpoints
+# Project Title
+A spring boot(1.4) app that exposes REST api by using Apache Derby Database and uses Swagger to document the REST endpoints
 
 ## Getting Started
 
