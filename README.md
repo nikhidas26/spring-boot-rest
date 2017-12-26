@@ -1,4 +1,4 @@
-#Project Titile
+# Project Titile
 A spring boot(1.4) app that exposes REST api by using Apache Derby Database and uses Swagger to expose the endpoints
 
 ## Getting Started
@@ -37,7 +37,7 @@ http://localhost:8080/v2/api-docs
 
 ## Authors
 
-* **Nikhil Das Nomula** - *Initial work* - [PurpleBooth](https://github.com/nikhidas26)
+* **Nikhil Das Nomula** - *Initial work* - [nikhidas26](https://github.com/nikhidas26)
 
 ## License
 
