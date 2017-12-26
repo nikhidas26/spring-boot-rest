@@ -15,12 +15,12 @@ public class CourseController {
     @Autowired
     private CourseService courseService;
 
-    @RequestMapping("/topics/{topicId}/courses")
+    @RequestMapping(method = RequestMethod.GET, value="/topics/{topicId}/courses")
     public List<Course> getAllCourses(@PathVariable String topicId) {
         return courseService.getAllCourses(topicId);
     }
 
-    @RequestMapping("/topics/{topicId}/courses/{id}")
+    @RequestMapping(method = RequestMethod.GET, value="/topics/{topicId}/courses/{id}")
     public Course getCourse(@PathVariable String id) {
         return courseService.getCourse(id);
     }
